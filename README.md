@@ -6,14 +6,12 @@ a show style for list , just likes pinterest !
 ### Use
 
   dom
+
     < div id="Pinterest" >
 
         < div class="pinitem" >
-
             a show style for list , just likes pinterest !<br>
-
             content of item, you can instead with your content|dom|other ...
-
         < /div >
 
         < div class="pinitem" >
