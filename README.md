@@ -7,21 +7,17 @@ a show style for list , just likes pinterest !
 
 dom
 
->    <div id="Pinterest">
->        <div class="pinitem">
->            <div>
->            a show style for list , just likes pinterest !<br>
+>    \<div id="Pinterest"\>
+>        \<div class="pinitem"\>>
+>            a show style for list , just likes pinterest !\<br\>
 >            content of item, you can instead with your content|dom|other ...
->            </div>
->        </div>
->        <div class="pinitem">
->            <div>
->            a show style for list , just likes pinterest !<br>
+>        \<\/div\>
+>        \<div class="pinitem"\>>
+>            a show style for list , just likes pinterest !\<br\>
 >            content of item, you can instead with your content|dom|other ...
->            </div>
->        </div>
+>        \<\/div\>
 >        ...
->    </div>
+>    \<\/div\>
 
 js
 
